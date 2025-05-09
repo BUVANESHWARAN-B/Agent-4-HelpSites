@@ -4,7 +4,7 @@ This project implements an AI-powered agent capable of crawling help documentati
 
 1. **Clone the repo**  
    ```bash
-   git clone git@github.com:BUVANESHWARAN-B/
+   git clone git@github.com:BUVANESHWARAN-B/Agent-4-HelpSites
    cd Agent-4-HelpSites
 
 2. **Install Dependencies**
@@ -21,7 +21,7 @@ Create a file named .env in the project root:
 In the File 
 GOOGLE_API_KEY=your_google_api_key_here
 
-Usage Examples 
+🚀Usage Examples 
 python qa_agent.py https://help.instagram.com
 Question:About AI on Instagram
 
